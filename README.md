@@ -6,13 +6,13 @@ Requerimientos mínimos:
 
 + Endpoints para:
 
-- Listar productos disponibles
+ Listar productos disponibles
 
-- Agregar productos al carrito
+ Agregar productos al carrito
 
-- Eliminar productos del carrito
+ Eliminar productos del carrito
 
-- Calcular el total de la compra
+ Calcular el total de la compra
   
 + Persistencia inicial en memoria (sin base de datos)
   
