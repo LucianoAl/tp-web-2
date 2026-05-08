@@ -1,4 +1,5 @@
 Etapa 1: Backend con APIs
+
 Descripción: Implementar un servidor backend que exponga una serie de APIs RESTful para gestionar un carrito de compras de ...
 Requerimientos mínimos:
 Endpoints para:
